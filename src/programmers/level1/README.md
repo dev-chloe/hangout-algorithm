@@ -13,3 +13,8 @@
     [테스트코드](./add-digits/solution.spec.js) +
     [풀이](./add-digits/solution.js) /
     [메모](./add-digits#readme)
+
+3. [**평균 구하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12944):
+    [테스트코드](./get-average/solution.spec.js) +
+    [풀이](./get-average/solution.js) /
+    [메모](./get-average#readme)
