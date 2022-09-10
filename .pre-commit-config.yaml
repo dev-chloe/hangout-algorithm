@@ -1,0 +1,14 @@
+minimum_pre_commit_version: 2.20.0
+repos:
+- repo: https://github.com/pre-commit/mirrors-eslint
+  rev: 'v8.23.0'  # Use the sha / tag you want to point at
+  types: [file]
+  files: \.[jt]sx?$  # *.js, *.jsx, *.ts and *.tsx
+  hooks:
+    - id: eslint
+      additional_dependencies:
+      - eslint@8.23.0
+      - eslint-loader@1.6.1
+      # - eslint-config-google@0.7.1
+      # - babel-eslint@6.1.2
+      # - eslint-plugin-react@6.10.3

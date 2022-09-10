@@ -4,5 +4,16 @@
   "main": "index.js",
   "repository": "https://github.com/dev-chloe/hangout-algorithm.git",
   "author": "dev-chloe <chloekim.4969@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules npx jest"
+  },
+  "devDependencies": {
+    "@eslint/create-config": "^0.3.1",
+    "@jest/globals": "^29.0.2",
+    "eslint": "^8.23.0",
+    "eslint-plugin-jest": "^27.0.3",
+    "jest": "^29.0.2"
+  }
 }
