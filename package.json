@@ -1,0 +1,8 @@
+{
+  "name": "hangout-algorithm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dev-chloe/hangout-algorithm.git",
+  "author": "dev-chloe <chloekim.4969@gmail.com>",
+  "license": "MIT"
+}
