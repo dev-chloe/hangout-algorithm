@@ -16,5 +16,4 @@
 
 3. [**평균 구하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12944):
     [테스트코드](./get-average/solution.spec.js) +
-    [풀이](./get-average/solution.js) /
-    [메모](./get-average#readme)
+    [풀이](./get-average/solution.js)
