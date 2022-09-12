@@ -25,7 +25,8 @@
 
 6. [**문자열을 정수로 바꾸기**](https://school.programmers.co.kr/learn/courses/30/lessons/12925):
     [테스트코드](./string-to-number/solution.spec.js) +
-    [풀이](./string-to-number/solution.js) /
+    [풀이](./string-to-number/solution.number.js) /
+    [풀이2](./string-to-number/solution.parseInt.js) /
     [메모](./string-to-number#readme)
 
 7. [**두 정수 사이의 합**](https://school.programmers.co.kr/learn/courses/30/lessons/12912):
@@ -40,5 +41,6 @@
 
 9. [**수박수박수박수박수박수?**](https://school.programmers.co.kr/learn/courses/30/lessons/12922):
     [테스트코드](./wartermelon/solution.spec.js) +
-    [풀이](./wartermelon/solution.js) /
+    [풀이](./wartermelon/solution.array.js) /
+    [풀이2](./wartermelon/solution.string.js) /
     [메모](./wartermelon#readme)

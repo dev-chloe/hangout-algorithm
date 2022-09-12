@@ -1,6 +1,6 @@
 # 메모 - [수박수박수박수박수박수?](https://school.programmers.co.kr/learn/courses/30/lessons/12922)
 
-> [대상 소스 코드](./solution.js#L13)
+> [대상 소스 코드](./solution.array.js.js#L13)
 
 ## join()
 
@@ -35,4 +35,20 @@ solution(3)
 // "수박수"
 ```
 
+> [대상 소스 코드](./solution.string.js#L8)
+
+## 더하기 할당(+=)
+
+`더하기 할당 연산자(+=)`는 오른쪽 피연산자의 값을 변수에 더한 결과를 다시 변수에 할당한다. 두 피연산자의 타입이 더하기 할당 연산자의 동작을 결정하며, 덧셈 또는 문자열 연결이 가능하다.
+
+```javascript
+x += y
+```
+
+```javascript
+foo = "foo"
+foo += "bar" // foobar
+```
+
 - reference: [join() - MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
+- reference: [더하기 할당 - MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/Addition_assignment)
