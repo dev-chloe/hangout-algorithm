@@ -32,3 +32,8 @@
     [테스트코드](./sum-between-two-integers/solution.spec.js) +
     [풀이](./sum-between-two-integers/solution.js) /
     [메모](./sum-between-two-integers#readme)
+
+8. [**서울에서 김서방 찾기**](https://school.programmers.co.kr/learn/courses/30/lessons/12919):
+    [테스트코드](./find-mr-kim/solution.spec.js) +
+    [풀이](./find-mr-kim/solution.js) /
+    [메모](./find-mr-kim#readme)
