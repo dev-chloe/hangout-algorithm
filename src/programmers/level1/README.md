@@ -47,5 +47,10 @@
 
 10. [**가운데 글자 가져오기**](https://school.programmers.co.kr/learn/courses/30/lessons/12903):
     [테스트코드](./get-center-word/solution.spec.js) +
-    [풀이](./get-center-word/solution.array.js) /\
+    [풀이](./get-center-word/solution.js) /
     [메모](./get-center-word#readme)
+
+11. [**문자열 내림차순으로 배치하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12919):
+    [테스트코드](./descending-string/solution.spec.js) +
+    [풀이](./descending-string/solution.js) /
+    [메모](./descending-string#readme)

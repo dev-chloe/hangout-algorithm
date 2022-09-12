@@ -20,4 +20,4 @@ arr.indexOf(3, -6) // -1
 // 3은 포함 되어 있지 않아서 찾을 수 없으므로 -1
 ```
 
-- reference: [ndexOf() - MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
+- reference: [indexOf() - MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
