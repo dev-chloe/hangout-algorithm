@@ -27,3 +27,8 @@
     [테스트코드](./string-to-number/solution.spec.js) +
     [풀이](./string-to-number/solution.js) /
     [메모](./string-to-number#readme)
+
+7. [**두 정수 사이의 합**](https://school.programmers.co.kr/learn/courses/30/lessons/12912):
+    [테스트코드](./sum-between-two-integers/solution.spec.js) +
+    [풀이](./sum-between-two-integers/solution.js) /
+    [메모](./sum-between-two-integers#readme)
