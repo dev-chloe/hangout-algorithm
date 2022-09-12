@@ -1,4 +1,4 @@
-import solution from "./solution";
+import solution from "./solution.substring";
 
 /*
  * 단어 s의 가운데 글자를 반환하는 함수, solution을 만들어 보세요.
@@ -16,4 +16,12 @@ test(`${testCase}1 - string: "abcde"`, () => {
 
 test(`${testCase}1 - string: "qwer"`, () => {
   expect(solution("qwer")).toBe("we");
+});
+
+test(`${testCase}1 - string: "abcdefg"`, () => {
+  expect(solution("abcdefg")).toBe("d");
+});
+
+test(`${testCase}1 - string: "qwerty"`, () => {
+  expect(solution("qwerty")).toBe("er");
 });
