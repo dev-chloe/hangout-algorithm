@@ -44,3 +44,8 @@
     [풀이](./wartermelon/solution.array.js) /
     [풀이2](./wartermelon/solution.string.js) /
     [메모](./wartermelon#readme)
+
+10. [**가운데 글자 가져오기**](https://school.programmers.co.kr/learn/courses/30/lessons/12903):
+    [테스트코드](./get-center-word/solution.spec.js) +
+    [풀이](./get-center-word/solution.array.js) /\
+    [메모](./get-center-word#readme)
