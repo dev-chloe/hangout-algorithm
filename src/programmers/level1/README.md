@@ -37,3 +37,8 @@
     [테스트코드](./find-mr-kim/solution.spec.js) +
     [풀이](./find-mr-kim/solution.js) /
     [메모](./find-mr-kim#readme)
+
+9. [**수박수박수박수박수박수?**](https://school.programmers.co.kr/learn/courses/30/lessons/12922):
+    [테스트코드](./wartermelon/solution.spec.js) +
+    [풀이](./wartermelon/solution.js) /
+    [메모](./wartermelon#readme)
