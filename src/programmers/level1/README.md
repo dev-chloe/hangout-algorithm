@@ -14,6 +14,10 @@
     [풀이](./add-digits/solution.js) /
     [메모](./add-digits#readme)
 
-3. [**평균 구하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12944):
+4. [**평균 구하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12944):
     [테스트코드](./get-average/solution.spec.js) +
     [풀이](./get-average/solution.js)
+
+5. [**문자열 내 p와 y의 개수**](https://school.programmers.co.kr/learn/courses/30/lessons/12916):
+    [테스트코드](./count-p-and-y/solution.spec.js) +
+    [풀이](./count-p-and-y/solution.js)
