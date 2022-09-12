@@ -1,6 +1,6 @@
-# 메모 - [자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931)
+# 메모 - [평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)
 
-> [대상 소스 코드](./solution.js#L12)
+> [대상 소스 코드](./solution.js#L13)
 
 `reduce`는 배열의 각 요소에 대해 callback을 실행하며 단 1개의 출력 결과를 만든다.
 
