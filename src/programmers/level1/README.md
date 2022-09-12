@@ -22,3 +22,8 @@
     [테스트코드](./count-p-and-y/solution.spec.js) +
     [풀이](./count-p-and-y/solution.js) /
     [메모](./count-p-and-y#readme)
+
+6. [**문자열을 정수로 바꾸기**](https://school.programmers.co.kr/learn/courses/30/lessons/12925):
+    [테스트코드](./string-to-number/solution.spec.js) +
+    [풀이](./string-to-number/solution.js) /
+    [메모](./string-to-number#readme)
