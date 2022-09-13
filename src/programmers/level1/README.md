@@ -24,7 +24,8 @@
     [메모](./count-p-and-y#readme)
 
 6. [**문자열을 정수로 바꾸기**](https://school.programmers.co.kr/learn/courses/30/lessons/12925):
-    [테스트코드](./string-to-number/solution.spec.js) +
+    [테스트코드](./string-to-number/solution.number.spec.js) /
+    [테스트코드2](./string-to-number/solution.parseInt.spec.js) +
     [풀이](./string-to-number/solution.number.js) /
     [풀이2](./string-to-number/solution.parseInt.js) /
     [메모](./string-to-number#readme)
@@ -40,7 +41,8 @@
     [메모](./find-mr-kim#readme)
 
 9. [**수박수박수박수박수박수?**](https://school.programmers.co.kr/learn/courses/30/lessons/12922):
-    [테스트코드](./wartermelon/solution.spec.js) +
+    [테스트코드](./wartermelon/solution.array.spec.js) /
+    [테스트코드2](./wartermelon/solution.string.spec.js) +
     [풀이](./wartermelon/solution.array.js) /
     [풀이2](./wartermelon/solution.string.js) /
     [메모](./wartermelon#readme)
@@ -59,3 +61,10 @@
     [테스트코드](./string-basic/solution.spec.js) +
     [풀이](./string-basic/solution.js) /
     [메모](./string-basic#readme)
+
+13. [**같은 숫자는 싫어**](https://school.programmers.co.kr/learn/courses/30/lessons/12906):
+    [테스트코드](./hate-same-number/solution.for.spec.js) /
+    [테스트코드2](./hate-same-number/solution.filter-api.spec.js) +
+    [풀이](./hate-same-number/solution.for.js) /
+    [풀이](./hate-same-number/solution.filter-api.js) /
+    [메모](./hate-same-number#readme)

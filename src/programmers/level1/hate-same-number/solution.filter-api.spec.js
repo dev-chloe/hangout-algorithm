@@ -1,4 +1,4 @@
-import solution from "./solution";
+import solution from "./solution.filter-api";
 
 /*
  * 배열 arr가 주어집니다. 
@@ -18,9 +18,9 @@ const title = "같은 숫자는 싫어";
 const testCase = `${title} > 입출력 예 No.`;
 
 test(`${testCase}1 - arr: [1,1,3,3,0,1,1]`, () => {
-  expect(solution([1, 1, 3, 3, 0, 1, 1])).toBe([1, 3, 0, 1]);
+  expect(solution([1, 1, 3, 3, 0, 1, 1])).toStrictEqual([1, 3, 0, 1]);
 });
 
 test(`${testCase}1 - arr: [4,4,4,3,3]`, () => {
-  expect(solution([4, 4, 4, 3, 3])).toBe([4, 3]);
+  expect(solution([4, 4, 4, 3, 3])).toStrictEqual([4, 3]);
 });
