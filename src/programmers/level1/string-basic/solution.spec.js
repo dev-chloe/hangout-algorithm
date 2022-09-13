@@ -19,3 +19,7 @@ test(`${testCase}1 - str: "a234"`, () => {
 test(`${testCase}2 - str: "1234"`, () => {
   expect(solution("1234")).toBe(true);
 });
+
+test(`${testCase}3 - str: "12a34"`, () => {
+  expect(solution("12a34")).toBe(false);
+});
