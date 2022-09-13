@@ -54,3 +54,8 @@
     [테스트코드](./descending-string/solution.spec.js) +
     [풀이](./descending-string/solution.js) /
     [메모](./descending-string#readme)
+
+12. [**문자열 다루기 기본**](https://school.programmers.co.kr/learn/courses/30/lessons/12918):
+    [테스트코드](./string-basic/solution.spec.js) +
+    [풀이](./string-basic/solution.js) /
+    [메모](./string-basic#readme)
