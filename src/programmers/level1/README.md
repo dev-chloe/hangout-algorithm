@@ -78,3 +78,8 @@
     [테스트코드](./find-kth-number/solution.spec.js) +
     [풀이](./find-kth-number/solution.js) /
     [메모](./find-kth-number#readme)
+
+16. [**완주하지 못한 선수**](https://school.programmers.co.kr/learn/courses/30/lessons/42576):
+    [테스트코드](./unfinished-player/solution.spec.js) +
+    [풀이](./unfinished-player/solution.js) /
+    [메모](./unfinished-player#readme)
