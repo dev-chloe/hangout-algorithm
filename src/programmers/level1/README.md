@@ -68,3 +68,8 @@
     [풀이](./hate-same-number/solution.for.js) /
     [풀이](./hate-same-number/solution.filter-api.js) /
     [메모](./hate-same-number#readme)
+
+14. [**문자열 내 마음대로 정렬하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12915):
+    [테스트코드](./sorting-string/solution.spec.js) +
+    [풀이](./sorting-string/solution.js) /
+    [메모](./sorting-string#readme)
