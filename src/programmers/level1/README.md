@@ -73,3 +73,8 @@
     [테스트코드](./sorting-string/solution.spec.js) +
     [풀이](./sorting-string/solution.js) /
     [메모](./sorting-string#readme)
+
+15. [**K번째수**](https://school.programmers.co.kr/learn/courses/30/lessons/42748):
+    [테스트코드](./find-kth-number/solution.spec.js) +
+    [풀이](./find-kth-number/solution.js) /
+    [메모](./find-kth-number#readme)
