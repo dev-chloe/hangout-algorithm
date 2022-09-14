@@ -21,3 +21,7 @@ test(`${testCase}1 - arr: ["sun", "bed", "car"], num: 1`, () => {
 test(`${testCase}2 - arr: ["abce", "abcd", "cdx"], num: 2	`, () => {
   expect(solution(["abce", "abcd", "cdx"], 2)).toStrictEqual(["abcd", "abce", "cdx"]);
 });
+
+test(`${testCase}3 - arr: ["sun", "cat", "bed", "car"], num: 1	`, () => {
+  expect(solution(["sun", "cat", "bed", "car"], 1)).toStrictEqual(["car", "cat", "bed", "sun"]);
+});
