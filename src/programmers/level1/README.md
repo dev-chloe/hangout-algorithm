@@ -89,23 +89,23 @@
     [풀이](./sum-aliquot/solution.js)
 
 18. [**정수 제곱근 판별**](https://school.programmers.co.kr/learn/courses/30/lessons/12934):
-    [테스트코드](./interger-square-root/solution.noMath.js) /
+    [테스트코드](./interger-square-root/solution.noMath.spec.js) /
     [테스트코드2](./interger-square-root/solution.Math.spec.js) +
     [풀이](./interger-square-root/solution.noMath.js) /
     [풀이2](./interger-square-root/solution.Math.js) /
     [메모](./unfinished-player#readme)
 
 19. [**자연수 뒤집어 배열로 만들기**](https://school.programmers.co.kr/learn/courses/30/lessons/12932):
-    [테스트코드](./number-to-array/solution.map.js) /
-    [테스트코드2](./number-to-array/solution.toString.js) +
+    [테스트코드](./number-to-array/solution.map.spec.js) /
+    [테스트코드2](./number-to-array/solution.toString.spec.js) +
     [풀이](./number-to-array/solution.map.js) /
     [풀이2](./number-to-array/solution.toString.js) /
     [메모](./number-to-array#readme)
 
 20. [**정수 내림차순으로 배치하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12933):
-    [테스트코드](./descending-order-number/solution.map.js) +
-    [풀이](./descending-order-number/solution.map.js)
+    [테스트코드](./descending-order-number/solution.spec.js) +
+    [풀이](./descending-order-number/solution.map.js)  
 
-20. [**하샤드 수**](https://school.programmers.co.kr/learn/courses/30/lessons/12947):
-    [테스트코드](./harshad-number/solution.map.js) +
-    [풀이](./harshad-number/solution.map.js)
+21. [**하샤드 수**](https://school.programmers.co.kr/learn/courses/30/lessons/12947):
+    [테스트코드](./harshad-number/solution.spec.js) +
+    [풀이](./harshad-number/solution.js)  
