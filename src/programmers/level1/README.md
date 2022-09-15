@@ -94,3 +94,7 @@
     [풀이](./interger-square-root/solution.noMath.js) /
     [풀이2](./interger-square-root/solution.Math.js) /
     [메모](./unfinished-player#readme)
+
+19. [**자연수 뒤집어 배열로 만들기**](https://school.programmers.co.kr/learn/courses/30/lessons/12932):
+    [테스트코드](./number-to-array/solution.spec.js) +
+    [풀이](./number-to-array/solution.js)
