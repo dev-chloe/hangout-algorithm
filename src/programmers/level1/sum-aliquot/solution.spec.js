@@ -13,6 +13,6 @@ test(`${testCase}1 - num: 12`, () => {
   expect(solution(12)).toBe(28);
 });
 
-test(`${testCase}1 - num: 5`, () => {
+test(`${testCase}2 - num: 5`, () => {
   expect(solution(5)).toBe(6);
 });
