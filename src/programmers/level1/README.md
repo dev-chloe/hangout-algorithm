@@ -101,3 +101,7 @@
     [풀이](./number-to-array/solution.map.js) /
     [풀이2](./number-to-array/solution.toString.js) /
     [메모](./number-to-array#readme)
+
+20. [**정수 내림차순으로 배치하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12933):
+    [테스트코드](./descending-order-number/solution.map.js) +
+    [풀이](./descending-order-number/solution.map.js)
