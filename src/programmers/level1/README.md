@@ -66,7 +66,7 @@
     [테스트코드](./hate-same-number/solution.for.spec.js) /
     [테스트코드2](./hate-same-number/solution.filter-api.spec.js) +
     [풀이](./hate-same-number/solution.for.js) /
-    [풀이](./hate-same-number/solution.filter-api.js) /
+    [풀이2](./hate-same-number/solution.filter-api.js) /
     [메모](./hate-same-number#readme)
 
 14. [**문자열 내 마음대로 정렬하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12915):
@@ -89,5 +89,8 @@
     [풀이](./sum-aliquot/solution.js)
 
 18. [**정수 제곱근 판별**](https://school.programmers.co.kr/learn/courses/30/lessons/12934):
-    [테스트코드](./interger-square-root/solution.spec.js) +
-    [풀이](./interger-square-root/solution.js)
+    [테스트코드](./interger-square-root/solution.noMath.js) /
+    [테스트코드2](./interger-square-root/solution.Math.spec.js) +
+    [풀이](./interger-square-root/solution.noMath.js) /
+    [풀이2](./interger-square-root/solution.Math.js) /
+    [메모](./unfinished-player#readme)
