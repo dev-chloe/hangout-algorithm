@@ -105,3 +105,7 @@
 20. [**정수 내림차순으로 배치하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12933):
     [테스트코드](./descending-order-number/solution.map.js) +
     [풀이](./descending-order-number/solution.map.js)
+
+20. [**하샤드 수**](https://school.programmers.co.kr/learn/courses/30/lessons/12947):
+    [테스트코드](./harshad-number/solution.map.js) +
+    [풀이](./harshad-number/solution.map.js)
