@@ -109,3 +109,7 @@
 21. [**하샤드 수**](https://school.programmers.co.kr/learn/courses/30/lessons/12947):
     [테스트코드](./harshad-number/solution.spec.js) +
     [풀이](./harshad-number/solution.js)  
+
+22. [**x만큼 간격이 있는 n개의 숫자**](https://school.programmers.co.kr/learn/courses/30/lessons/12954):
+    [테스트코드](./x-space-numbers/solution.spec.js) +
+    [풀이](./x-space-numbers/solution.js)  
