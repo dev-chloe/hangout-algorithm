@@ -87,3 +87,7 @@
 17. [**약수의 합**](https://school.programmers.co.kr/learn/courses/30/lessons/12928):
     [테스트코드](./sum-aliquot/solution.spec.js) +
     [풀이](./sum-aliquot/solution.js)
+
+18. [**정수 제곱근 판별**](https://school.programmers.co.kr/learn/courses/30/lessons/12934):
+    [테스트코드](./interger-square-root/solution.spec.js) +
+    [풀이](./interger-square-root/solution.js)
