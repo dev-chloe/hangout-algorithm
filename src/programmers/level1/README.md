@@ -96,5 +96,8 @@
     [메모](./unfinished-player#readme)
 
 19. [**자연수 뒤집어 배열로 만들기**](https://school.programmers.co.kr/learn/courses/30/lessons/12932):
-    [테스트코드](./number-to-array/solution.spec.js) +
-    [풀이](./number-to-array/solution.js)
+    [테스트코드](./number-to-array/solution.map.js) /
+    [테스트코드2](./number-to-array/solution.toString.js) +
+    [풀이](./number-to-array/solution.map.js) /
+    [풀이2](./number-to-array/solution.toString.js) /
+    [메모](./number-to-array#readme)
