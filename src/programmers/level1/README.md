@@ -111,5 +111,8 @@
     [풀이](./harshad-number/solution.js)  
 
 22. [**x만큼 간격이 있는 n개의 숫자**](https://school.programmers.co.kr/learn/courses/30/lessons/12954):
-    [테스트코드](./x-space-numbers/solution.spec.js) +
-    [풀이](./x-space-numbers/solution.js)  
+    [테스트코드](./x-space-numbers/solution.for.spec.js) /
+    [테스트코드2](./x-space-numbers/solution.fill.spec.js) +
+    [풀이](./x-space-numbers/solution.for.js)  /
+    [풀이2](./x-space-numbers/solution.fill.js) /
+    [메모](./x-space-numbers#readme)  
