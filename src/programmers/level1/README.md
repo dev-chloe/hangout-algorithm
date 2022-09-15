@@ -83,3 +83,7 @@
     [테스트코드](./unfinished-player/solution.spec.js) +
     [풀이](./unfinished-player/solution.js) /
     [메모](./unfinished-player#readme)
+
+17. [**약수의 합**](https://school.programmers.co.kr/learn/courses/30/lessons/12928):
+    [테스트코드](./sum-aliquot/solution.spec.js) +
+    [풀이](./sum-aliquot/solution.js)
