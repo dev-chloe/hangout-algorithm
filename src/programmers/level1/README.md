@@ -128,3 +128,7 @@
     [풀이](./hide-mobile-number/solution.fill.js)  /
     [풀이2](./hide-mobile-number/solution.replace.js)  /
     [메모](./hide-mobile-number#readme)  
+
+25. [**제일 작은 수 제거하기**](https://school.programmers.co.kr/learn/courses/30/lessons/12935):
+    [테스트코드](./remove-smallest-number/solution.fill.spec.js) +
+    [풀이](./remove-smallest-number/solution.fill.js)  
