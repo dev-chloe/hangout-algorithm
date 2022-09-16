@@ -119,4 +119,5 @@
 
 23. [**콜라츠 추측**](https://school.programmers.co.kr/learn/courses/30/lessons/12943):
     [테스트코드](./collatz-conjecture/solution.spec.js) +
-    [풀이](./collatz-conjecture/solution.js)  
+    [풀이](./collatz-conjecture/solution.js)   /
+    [메모](./collatz-conjecture#readme)  

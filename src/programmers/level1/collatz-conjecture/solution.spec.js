@@ -22,10 +22,10 @@ test(`${testCase}1 - num: 6`, () => {
   expect(solution(6)).toBe(8);
 });
 
-test(`${testCase}1 - num: 16`, () => {
+test(`${testCase}2 - num: 16`, () => {
   expect(solution(16)).toBe(4);
 });
 
-test(`${testCase}1 - num: 626331`, () => {
+test(`${testCase}3 - num: 626331`, () => {
   expect(solution(626331)).toBe(-1);
 });
