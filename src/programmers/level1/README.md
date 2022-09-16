@@ -121,3 +121,7 @@
     [테스트코드](./collatz-conjecture/solution.spec.js) +
     [풀이](./collatz-conjecture/solution.js)   /
     [메모](./collatz-conjecture#readme)  
+
+24. [**핸드폰 번호 가리기**](https://school.programmers.co.kr/learn/courses/30/lessons/12948):
+    [테스트코드](./hide-mobile-number/solution.spec.js) +
+    [풀이](./hide-mobile-number/solution.js)
