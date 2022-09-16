@@ -123,5 +123,8 @@
     [메모](./collatz-conjecture#readme)  
 
 24. [**핸드폰 번호 가리기**](https://school.programmers.co.kr/learn/courses/30/lessons/12948):
-    [테스트코드](./hide-mobile-number/solution.spec.js) +
-    [풀이](./hide-mobile-number/solution.js)
+    [테스트코드](./hide-mobile-number/solution.fill.spec.js) /
+    [테스트코드2](./hide-mobile-number/solution.replace.spec.js) +
+    [풀이](./hide-mobile-number/solution.fill.js)  /
+    [풀이2](./hide-mobile-number/solution.replace.js)  /
+    [메모](./hide-mobile-number#readme)  
