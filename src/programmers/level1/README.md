@@ -135,3 +135,7 @@
     [풀이](./remove-smallest-number/solution.splice.js)  /
     [풀이2](./remove-smallest-number/solution.min.js)  /
     [메모](./remove-smallest-number#readme)  
+
+26. [**나누어 떨어지는 숫자 배열**](https://school.programmers.co.kr/learn/courses/30/lessons/12910):
+    [테스트코드](./divisive-array-of-numbers/solution.spec.js) +
+    [풀이](./divisive-array-of-numbers/solution.js)  
