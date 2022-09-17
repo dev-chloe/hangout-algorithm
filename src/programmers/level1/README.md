@@ -150,4 +150,8 @@
 
 29. [**내적**](https://school.programmers.co.kr/learn/courses/30/lessons/70128):
     [테스트코드](./dot-product/solution.spec.js) +
-    [풀이](./dot-product/solution.js)  
+    [풀이](./dot-product/solution.js)
+
+30. [**약수의 개수와 덧셈**](https://school.programmers.co.kr/learn/courses/30/lessons/77884):
+    [테스트코드](./count-aliquot-and-sum/solution.spec.js) +
+    [풀이](./count-aliquot-and-sum/solution.js)
