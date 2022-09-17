@@ -142,4 +142,8 @@
 
 27. [**음양 더하기**](https://school.programmers.co.kr/learn/courses/30/lessons/76501):
     [테스트코드](./sum-positive-negative/solution.spec.js) +
-    [풀이](./sum-positive-negative/solution.js)
+    [풀이](./sum-positive-negative/solution.js)  
+
+28. [**없는 숫자 더하기**](https://school.programmers.co.kr/learn/courses/30/lessons/86051):
+    [테스트코드](./sum-missing-number/solution.spec.js) +
+    [풀이](./sum-missing-number/solution.js)
