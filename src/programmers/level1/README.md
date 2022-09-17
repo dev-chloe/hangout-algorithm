@@ -146,4 +146,8 @@
 
 28. [**없는 숫자 더하기**](https://school.programmers.co.kr/learn/courses/30/lessons/86051):
     [테스트코드](./sum-missing-number/solution.spec.js) +
-    [풀이](./sum-missing-number/solution.js)
+    [풀이](./sum-missing-number/solution.js)  
+
+29. [**내적**](https://school.programmers.co.kr/learn/courses/30/lessons/70128):
+    [테스트코드](./dot-product/solution.spec.js) +
+    [풀이](./dot-product/solution.js)  
