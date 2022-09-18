@@ -18,3 +18,8 @@ const testCase = `${title} > 입출력 예 No.`;
 test(`${testCase}1 - price: 3, money: 20, count: 4`, () => {
   expect(solution(3, 20, 4)).toBe(10);
 });
+
+
+test(`${testCase}1 - price: 3, money: 30, count: 4`, () => {
+  expect(solution(3, 30, 4)).toBe(0);
+});

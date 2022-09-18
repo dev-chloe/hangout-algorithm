@@ -163,3 +163,12 @@
 32. [**부족한 금액 계산하기**](https://school.programmers.co.kr/learn/courses/30/lessons/82612):
     [테스트코드](./count-insufficient-money/solution.spec.js) +
     [풀이](./count-insufficient-money/solution.js)
+
+33. [**직사각형 별찍기**](https://school.programmers.co.kr/learn/courses/30/lessons/12969):
+    [테스트코드](./rectangular-star/solution.spec.js) +
+    [풀이](./rectangular-star/solution.js)  
+
+34. [**최대공약수와 최소공배수**](https://school.programmers.co.kr/learn/courses/30/lessons/12940):
+    [테스트코드](./greatest-least-common-multiple/solution.spec.js) +
+    [풀이](./greatest-least-common-multiple/solution.js)  /
+    [메모](./greatest-least-common-multiple#readme)  
