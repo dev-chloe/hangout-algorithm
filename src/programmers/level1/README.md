@@ -154,4 +154,8 @@
 
 30. [**약수의 개수와 덧셈**](https://school.programmers.co.kr/learn/courses/30/lessons/77884):
     [테스트코드](./count-aliquot-and-sum/solution.spec.js) +
-    [풀이](./count-aliquot-and-sum/solution.js)
+    [풀이](./count-aliquot-and-sum/solution.js)  
+
+31. [**행렬의 덧셈**](https://school.programmers.co.kr/learn/courses/30/lessons/12950):
+    [테스트코드](./sum-matrix/solution.spec.js) +
+    [풀이](./sum-matrix/solution.js)  
