@@ -159,3 +159,7 @@
 31. [**행렬의 덧셈**](https://school.programmers.co.kr/learn/courses/30/lessons/12950):
     [테스트코드](./sum-matrix/solution.spec.js) +
     [풀이](./sum-matrix/solution.js)  
+
+32. [**부족한 금액 계산하기**](https://school.programmers.co.kr/learn/courses/30/lessons/82612):
+    [테스트코드](./count-insufficient-money/solution.spec.js) +
+    [풀이](./count-insufficient-money/solution.js)
