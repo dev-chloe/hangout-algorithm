@@ -179,4 +179,5 @@
 
 36. [**3진법 뒤집기**](https://school.programmers.co.kr/learn/courses/30/lessons/68935):
     [테스트코드](./ternary-flip/solution.spec.js) +
-    [풀이](./ternary-flip/solution.js)  
+    [풀이](./ternary-flip/solution.js)  /
+    [메모](./ternary-flip#readme)  
