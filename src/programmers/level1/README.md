@@ -176,3 +176,7 @@
 35. [**이상한 문자 만들기**](https://school.programmers.co.kr/learn/courses/30/lessons/12930):
     [테스트코드](./make-strange-text/solution.spec.js) +
     [풀이](./make-strange-text/solution.js)  
+
+36. [**3진법 뒤집기**](https://school.programmers.co.kr/learn/courses/30/lessons/68935):
+    [테스트코드](./ternary-flip/solution.spec.js) +
+    [풀이](./ternary-flip/solution.js)  
