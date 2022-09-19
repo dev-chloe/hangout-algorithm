@@ -189,3 +189,7 @@
 38. [**시저 암호**](https://school.programmers.co.kr/learn/courses/30/lessons/12926):
     [테스트코드](./caesar-cipher/solution.spec.js) +
     [풀이](./caesar-cipher/solution.js)  
+
+39. [**비밀지도**](https://school.programmers.co.kr/learn/courses/30/lessons/17681):
+    [테스트코드](./secret-map/solution.spec.js) +
+    [풀이](./secret-map/solution.js)  
