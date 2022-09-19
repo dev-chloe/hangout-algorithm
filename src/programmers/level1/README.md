@@ -185,3 +185,7 @@
 37. [**예산**](https://school.programmers.co.kr/learn/courses/30/lessons/12982):
     [테스트코드](./budget/solution.spec.js) +
     [풀이](./budget/solution.js)  
+
+38. [**시저 암호**](https://school.programmers.co.kr/learn/courses/30/lessons/12926):
+    [테스트코드](./caesar-cipher/solution.spec.js) +
+    [풀이](./caesar-cipher/solution.js)  
