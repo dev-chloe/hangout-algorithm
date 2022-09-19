@@ -172,3 +172,7 @@
     [테스트코드](./greatest-least-common-multiple/solution.spec.js) +
     [풀이](./greatest-least-common-multiple/solution.js)  /
     [메모](./greatest-least-common-multiple#readme)  
+
+35. [**이상한 문자 만들기**](https://school.programmers.co.kr/learn/courses/30/lessons/12930):
+    [테스트코드](./make-strange-text/solution.spec.js) +
+    [풀이](./make-strange-text/solution.js)  
