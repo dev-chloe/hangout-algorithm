@@ -16,7 +16,7 @@ const title = "시저 암호";
 const testCase = `${title} > 입출력 예 No.`;
 
 test(`${testCase}1 - s: "AB", n: 1`, () => {
-  expect(solution("AB", 1)).toBe("BC");
+  expect(solution("AB ", 1)).toBe("BC ");
 });
 
 test(`${testCase}2 - s: "z", n: 1`, () => {
