@@ -192,4 +192,9 @@
 
 39. [**비밀지도**](https://school.programmers.co.kr/learn/courses/30/lessons/17681):
     [테스트코드](./secret-map/solution.spec.js) +
-    [풀이](./secret-map/solution.js)  
+    [풀이](./secret-map/solution.js)  /
+    [메모](./secret-map#readme)
+
+40. [**최소직사각형**](https://school.programmers.co.kr/learn/courses/30/lessons/86491):
+    [테스트코드](./minimum-rectangle/solution.spec.js) +
+    [풀이](./minimum-rectangle/solution.js)  
