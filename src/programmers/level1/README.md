@@ -200,5 +200,8 @@
     [풀이](./minimum-rectangle/solution.js)  
 
 41. [**숫자 문자열과 영단어**](https://school.programmers.co.kr/learn/courses/30/lessons/81301):
-    [테스트코드](./number-string-word/solution.spec.js) +
-    [풀이](./number-string-word/solution.js)  
+    [테스트코드](./number-string-word/solution.for.spec.js) /
+    [테스트코드2](./number-string-word/solution.regExp.spec.js) +
+    [풀이](./number-string-word/solution.for.js)  /
+    [풀이2](./number-string-word/solution.regExp.js)  /
+    [메모](./number-string-word#readme)

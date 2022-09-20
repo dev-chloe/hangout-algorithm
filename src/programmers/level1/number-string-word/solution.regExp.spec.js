@@ -1,4 +1,4 @@
-import solution from "./solution";
+import solution from "./solution.regExp";
 
 /*
  * 네오와 프로도가 숫자놀이를 하고 있습니다.
